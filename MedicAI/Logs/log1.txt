@@ -1,0 +1,30 @@
+2021-01-12 20:13:10.158202
+User Logged In : 127.0.0.1
+LoginUserEmail : sadfdsaf@h.com
+LoginUserPassword :  fkwjdbjwhrf
+LoginUserRememberMe : on
+
+
+2021-01-12 20:13:10.158202
+User Logged In : 127.0.0.1
+LoginUserEmail : fbngfonb@h.com
+LoginUserPassword : dskfhsklfh
+LoginUserRememberMe : off
+
+
+2021-01-12 20:13:10.158202
+User Registered : 127.0.0.1
+RegisterUserName : dscascasc
+RegisterUserEmail : kfpro@gmail.com
+RegisterUserPassword : sretrete
+RegisterPolicy : off
+
+
+2021-01-12 20:13:10.158202
+User Registered : 127.0.0.1
+RegisterUserName : sdjfhdhg
+RegisterUserEmail : njrfarhandasilva10@gmail.com
+RegisterUserPassword : sdfjsdjf
+RegisterPolicy : off
+
+
